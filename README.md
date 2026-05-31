@@ -176,10 +176,10 @@ Dashboard Storytelling
 
 ## 📷 Dashboard Preview
 ![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
-![Dashboard Preview](Dashboard Images/Revenue & Customer Analysis.jpg)
-![Dashboard Preview](Dashboard Images/Fleet & Driver Performance.jpg)
-![Dashboard Preview](./Dashboard Images/Fuel & Maintenance Operations.jpg)
-![Dashboard Preview](./Dashboard Images/Delivery & Safety Performance.jpg)
+![Revenue & Customer Analysis](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Revenue%20%26%20Customer%20Analysis.jpg)
+![Fleet & Driver Performance](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Fleet%20%26%20Driver%20Performance.jpg)
+![Fuel & Maintenance Operations](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Fuel%20%26%20Maintenance%20Operations.jpg)
+![Delivery & Safety Performance](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
 
 ---
 
