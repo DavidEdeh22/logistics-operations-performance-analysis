@@ -175,7 +175,7 @@ Dashboard Storytelling
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard Images/Executive Overview.jpg)
+![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
 ![Dashboard Preview](Dashboard Images/Revenue & Customer Analysis.jpg)
 ![Dashboard Preview](Dashboard Images/Fleet & Driver Performance.jpg)
 ![Dashboard Preview](./Dashboard Images/Fuel & Maintenance Operations.jpg)
