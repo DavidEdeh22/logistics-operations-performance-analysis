@@ -1,5 +1,5 @@
 # 🚛 Logistics Operations Performance Analysis Dashboard
-Interactive Power BI dashboard analyzing logistics operations, fleet performance, fuel efficiency, maintenance operations, customer revenue trends, and safety analytics.
+![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
 
 ## 📌 Project Overview
 This project is a comprehensive Business Intelligence solution developed as the Capstone Project for my Data Analytics training at Tech Sphere Academy.
