@@ -1,5 +1,5 @@
 # 🚛 Logistics Operations Performance Analysis Dashboard
-![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
+![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Executive%20Overview.jpg)
 
 ## 📌 Project Overview
 This project is a comprehensive Business Intelligence solution developed as the Capstone Project for my Data Analytics training at Tech Sphere Academy.
@@ -13,12 +13,12 @@ Logistics organizations generate large volumes of operational data daily across 
 
 Without centralized analytics, it becomes difficult to:
 
-Monitor operational efficiency
-Identify revenue-driving customers and routes
-Track fleet performance
-Analyze operational costs
-Evaluate delivery reliability
-Monitor safety and incident trends
++ Monitor operational efficiency
++ Identify revenue-driving customers and routes
++ Track fleet performance
++ Analyze operational costs
++ Evaluate delivery reliability
++ Monitor safety and incident trends
 
 This project addresses these challenges by developing an interactive dashboard that consolidates key operational metrics into a single analytical solution.
 
@@ -28,20 +28,20 @@ The original dataset used for this project was too large for GitHub upload limit
 ## 📂 Dataset Description
 The dataset contains 14 interconnected logistics operational tables, including:
 
-Drivers
-Trucks
-Trailers
-Customers
-Facilities
-Routes
-Loads
-Trips
-Fuel Purchases
-Maintenance Records
-Delivery Events
-Safety Incidents
-Driver Monthly Metrics
-Truck Utilization Metrics
++ Drivers
++ Trucks
++ Trailers
++ Customers
++ Facilities
++ Routes
++ Loads
++ Trips
++ Fuel Purchases
++ Maintenance Records
++ Delivery Events
++ Safety Incidents
++ Driver Monthly Metrics
++ Truck Utilization Metrics
 
 The dataset spans operational activities from:
 📅 2022 – 2024
@@ -65,120 +65,102 @@ The dashboard was divided into 5 major analytical sections:
 ### 1️⃣ Executive Overview
 Provides high-level operational KPIs and overall business performance insights.
 #### Key Metrics:
-Total Revenue
-Total Trips/Loads
-Average MPG
-Fuel Cost
-Total Incidents
-Service Punctuality
++ Total Revenue
++ Total Trips/Loads
++ Average MPG
++ Fuel Cost
++ Total Incidents
++ Service Punctuality
 #### Key Visuals:
-Revenue Trend Over Time
-Top Customers by Revenue
-Top Drivers by Revenue
-Revenue by Route
++ Revenue Trend Over Time
++ Top Customers by Revenue
++ Top Drivers by Revenue
++ Revenue by Route
 
 ### 2️⃣ Revenue & Customer Analysis
 Focused on revenue generation and customer contribution analysis.
 #### Key Metrics:
-Revenue per Mile
-Average Revenue per Load
-Active Customers
-Top Customer Revenue Contribution %
++ Revenue per Mile
++ Average Revenue per Load
++ Active Customers
++ Top Customer Revenue Contribution %
 #### Key Visuals:
-Revenue by Booking Type
-Revenue by Customer Type
-Monthly Revenue Trend
-Revenue per Mile by Route
-Customer Performance Table
++ Revenue by Booking Type
++ Revenue by Customer Type
++ Monthly Revenue Trend
++ Revenue per Mile by Route
++ Customer Performance Table
 
 ### 3️⃣ Fleet & Driver Performance
 Analyzed operational productivity and fleet efficiency.
 #### Key Metrics:
-Total Trips Completed
-Average Trips per Driver
-Fleet MPG
-Truck Utilization Rate
-Total Distance Covered
-Average Idle Time
++ Total Trips Completed
++ Average Trips per Driver
++ Fleet MPG
++ Truck Utilization Rate
++ Total Distance Covered
++ Average Idle Time
 #### Key Visuals:
-Top Drivers by Revenue
-Revenue by Truck
-Driver MPG Analysis
-Truck Utilization Trends
++ Top Drivers by Revenue
++ Revenue by Truck
++ Driver MPG Analysis
++ Truck Utilization Trends
 
 ### 4️⃣ Fuel & Maintenance Operations
 Focused on operational cost and fleet maintenance analysis.
 #### Key Metrics:
-Total Fuel Consumption
-Total Fuel Cost
-Cost per Mile
-Maintenance Cost
-Maintenance Events
-Downtime Hours
++ Total Fuel Consumption
++ Total Fuel Cost
++ Cost per Mile
++ Maintenance Cost
++ Maintenance Events
++ Downtime Hours
 #### Key Visuals:
-Fuel Efficiency Trend
-Maintenance Cost by Truck
-Fuel Cost Analysis
-Maintenance Operations Trend
++ Fuel Efficiency Trend
++ Maintenance Cost by Truck
++ Fuel Cost Analysis
++ Maintenance Operations Trend
 
 ### 5️⃣ Delivery & Safety Performance
 Analyzed delivery reliability and operational safety.
 #### Key Metrics:
-On-Time Delivery %
-Preventable Incidents %
-Safety Incident Rate
-Claim Amount Total
-Late Deliveries %
++ On-Time Delivery %
++ Preventable Incidents %
++ Safety Incident Rate
 #### Key Visuals:
-Incident Trend Analysis
-Safety Incident Breakdown
-Delivery Performance Trends
-Claim Cost Analysis
++ Incident Trend Analysis
++ Delivery Performance Trends
 
 ---
 
-## 🧠 Key Insights Generated
-### 📌 Revenue Insights
-A small group of customers contributed a significant percentage of total revenue.
-Certain logistics routes generated substantially higher revenue per mile.
-### 📌 Operational Insights
-Truck utilization rates varied significantly across the fleet.
-Some drivers consistently contributed higher operational revenue.
-### 📌 Cost Insights
-Fuel costs represented a major portion of operational expenses.
-Cost-per-mile analysis highlighted operational efficiency differences across routes.
-### 📌 Safety Insights
-Preventable incidents contributed significantly to total safety incidents.
-Claim amounts revealed the financial impact of operational safety failures.
-
 ## 🔍 Data Preparation & Modeling
 The project involved:
-Building relationships across operational tables
-Creating a centralized Date Table
-Developing DAX measures for KPI calculations
-Creating interactive slicers and navigation
-Optimizing dashboard storytelling and layout
++ Building relationships across operational tables
++ Creating a centralized Date Table
++ Developing DAX measures for KPI calculations
++ Creating interactive slicers and navigation
++ Optimizing dashboard storytelling and layout
 
 ## 📈 Skills Demonstrated
 ### Technical Skills
-Power BI Dashboard Development
-DAX Calculations
-Power Query Transformations
-Data Modeling
-KPI Development
-Interactive Reporting
++ Power BI Dashboard Development
++ DAX Calculations
++ Power Query Transformations
++ Data Modeling
++ KPI Development
++ Interactive Reporting
 ### Analytical Skills
-Business Intelligence
-Operational Analytics
-Trend Analysis
-Performance Monitoring
-Executive Reporting
-Dashboard Storytelling
++ Business Intelligence
++ Operational Analytics
++ Trend Analysis
++ Performance Monitoring
++ Executive Reporting
++ Dashboard Storytelling
 
 ---
 
 ## 📷 Dashboard Preview
-![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Delivery%20%26%20Safety%20Performance.jpg)
+![Executive Overview](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Executive%20Overview.jpg)
 ![Revenue & Customer Analysis](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Revenue%20%26%20Customer%20Analysis.jpg)
 ![Fleet & Driver Performance](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Fleet%20%26%20Driver%20Performance.jpg)
 ![Fuel & Maintenance Operations](https://github.com/DavidEdeh22/logistics-operations-performance-analysis/blob/main/Dashboard%20Images/Fuel%20%26%20Maintenance%20Operations.jpg)
@@ -190,11 +172,11 @@ Dashboard Storytelling
 
 The project successfully transformed raw logistics operational data into an interactive analytics solution capable of supporting:
 
-Executive decision-making
-Operational monitoring
-Cost optimization
-Fleet performance analysis
-Safety performance evaluation
++ Executive decision-making
++ Operational monitoring
++ Cost optimization
++ Fleet performance analysis
++ Safety performance evaluation
 
 ---
 
