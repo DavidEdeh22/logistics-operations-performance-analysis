@@ -22,6 +22,9 @@ Monitor safety and incident trends
 
 This project addresses these challenges by developing an interactive dashboard that consolidates key operational metrics into a single analytical solution.
 
+## Dataset Availability
+The original dataset used for this project was too large for GitHub upload limits and is therefore not included in this repository.
+
 ## 📂 Dataset Description
 The dataset contains 14 interconnected logistics operational tables, including:
 
