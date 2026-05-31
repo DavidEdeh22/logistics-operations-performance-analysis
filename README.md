@@ -175,9 +175,9 @@ Dashboard Storytelling
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./Dashboard Images/Executive Overview.jpg)
-![Dashboard Preview](./Dashboard Images/Revenue & Customer Analysis.jpg)
-![Dashboard Preview](./Dashboard Images/Fleet & Driver Performance.jpg)
+![Dashboard Preview](Dashboard Images/Executive Overview.jpg)
+![Dashboard Preview](Dashboard Images/Revenue & Customer Analysis.jpg)
+![Dashboard Preview](Dashboard Images/Fleet & Driver Performance.jpg)
 ![Dashboard Preview](./Dashboard Images/Fuel & Maintenance Operations.jpg)
 ![Dashboard Preview](./Dashboard Images/Delivery & Safety Performance.jpg)
 
@@ -218,4 +218,4 @@ Passionate about using data, creativity, and technology to solve real-world prob
 www.linkedin.com/in/david-edeh-84aa65232
 ### GitHub:
 
-(Insert your GitHub profile link)
+https://github.com/DavidEdeh22
