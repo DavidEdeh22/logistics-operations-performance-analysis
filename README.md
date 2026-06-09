@@ -198,9 +198,5 @@ Passionate about using data, creativity, and technology to solve real-world prob
 ---
 
 ## 🔗 Connect With Me
-### LinkedIn:
-
-www.linkedin.com/in/david-edeh-84aa65232
-### GitHub:
-
-https://github.com/DavidEdeh22
+<a href="https://github.com/DavidEdeh22"><kbd>Visit My GitHub Profile</kbd></a>
+<a href="http://www.linkedin.com/in/david-edeh-84aa65232"><kbd>Visit My LinkedIn Profile</kbd></a>
